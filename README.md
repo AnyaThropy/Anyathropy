@@ -1,5 +1,11 @@
 Hello there, my name is Anya.
 
+I'm currently a major in Cybersecurity, I am open to open source projects and collaborations.
+
+Languages:
+C++
+Python
+
 Currently Working on:
 Secure Password Manager
 
