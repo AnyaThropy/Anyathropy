@@ -9,6 +9,9 @@ Python
 Currently Working on:
 Secure Password Manager
 
+Contact Info:
+Discord: anya.rei
+
 <!--
 **AnyaThropy/Anyathropy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
