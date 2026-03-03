@@ -9,7 +9,6 @@ Python
 Currently Working on:
 Secure Password Manager
 
-Contact Info:
 Discord: anya.rei
 
 <!--
